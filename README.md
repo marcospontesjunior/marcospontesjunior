@@ -1,6 +1,6 @@
 ## Olá, eu sou o Marcos e você está no meu Github!
 
-![](https://github-readme-stats.vercel.app/api?username=marcospontesjunior&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=marcospontesjunior&theme=omni&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marcospontesjunior&theme=omni&hide_border=false)<br/>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
