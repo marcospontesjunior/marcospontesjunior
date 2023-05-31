@@ -2,10 +2,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=marcospontesjunior&theme=omni&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
----
-### Linguagens que utilizo 👇
-###
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 
 ---
