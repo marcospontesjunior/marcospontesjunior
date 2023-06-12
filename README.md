@@ -1,4 +1,4 @@
-## Olá!! Eu sou o Marcos e você está no meu Github! 😀
+## Olá!! Eu sou o Marcos e você está no meu Github!
 
 ![](https://github-readme-stats.vercel.app/api?username=marcospontesjunior&theme=omni&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
