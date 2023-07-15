@@ -7,6 +7,8 @@
 ### Repositório em destaque: 
 ###
 
+- Resolvendo exercícios de Lógica de Programação utilizando JavaScript:
+###
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=marcospontesjunior&repo=exercicios-logicaprogramacao-javascript&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/marcospontesjunior/exercicios-logicaprogramacao-javascript)
 
 ### Me encontre por aqui 👇
