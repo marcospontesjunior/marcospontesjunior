@@ -12,10 +12,15 @@ Cursado até o 8º período de Engenharia de Controle e Automação (atualmente 
 ###
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 
+### Ferramentas:
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=orange&color=black) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue&color=black) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=green&color=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=yellow&color=black)
+
 <!--
 ![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcospontesjunior&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
 
 ### Repositório em destaque: 
+###
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=marcospontesjunior&repo=analise-perfil-clientes&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/marcospontesjunior/sistema-bancario-python)
 ###
 - Projeto Bootcamp Ciências de Dados com Python powered by iFood
 ###
