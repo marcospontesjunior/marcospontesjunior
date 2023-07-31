@@ -20,7 +20,7 @@ Cursado até o 8º período de Engenharia de Controle e Automação (atualmente 
 
 ### Repositório em destaque: 
 ###
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=marcospontesjunior&repo=analise-perfil-clientes&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/marcospontesjunior/sistema-bancario-python)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=marcospontesjunior&repo=analise-perfil-clientes&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/marcospontesjunior/analise-perfil-clientes)
 ###
 - Projeto Bootcamp Ciências de Dados com Python powered by iFood
 ###
