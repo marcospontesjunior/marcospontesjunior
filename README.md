@@ -1,5 +1,8 @@
 ## Olá!! Eu me chamo Marcos e você está no meu Github!
 
+###
+Cursado até o 8º período de Engenharia de Controle e Automação (atualmente em pausa), estou em transição de carreira para a área de Dados. 
+
 ### Me encontre por aqui 👇
 ###
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://linkedin.com/in/marcospontesjunior)
