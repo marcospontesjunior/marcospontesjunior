@@ -5,12 +5,12 @@ Cursado até o 8º período de Engenharia de Controle e Automação (atualmente 
 
 ### Me encontre por aqui 👇
 ###
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://linkedin.com/in/marcospontesjunior)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=0E76A8)](https://medium.com/@marcospntsjunior)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=blue&color=black)](https://linkedin.com/in/marcospontesjunior)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&color=black)](https://medium.com/@marcospntsjunior)
 
 ### Linguagens mais utilizadas:
 ###
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=yellow&color=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=yellow&color=black) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=black)
 
 ### Ferramentas:
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=orange&color=black) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue&color=black) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=green&color=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=yellow&color=black)
@@ -19,6 +19,8 @@ Cursado até o 8º período de Engenharia de Controle e Automação (atualmente 
 ![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcospontesjunior&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
 
 ### Repositório em destaque: 
+###
+- Análise de Perfil de Clientes para Identificação do Cliente Ideal
 ###
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=marcospontesjunior&repo=analise-perfil-clientes&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/marcospontesjunior/analise-perfil-clientes)
 ###
