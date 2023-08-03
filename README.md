@@ -6,7 +6,7 @@ Cursado até o 8º período de Engenharia de Controle e Automação (atualmente 
 ### Me encontre por aqui 👇
 ###
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=blue&color=black)](https://linkedin.com/in/marcospontesjunior)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&color=black)](https://medium.com/@marcospntsjunior)
+<!-- [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&color=black)](https://medium.com/@marcospntsjunior) -->
 
 ### Linguagens mais utilizadas:
 ###
