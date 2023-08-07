@@ -10,7 +10,7 @@ Cursado até o 8º período de Engenharia de Controle e Automação (atualmente 
 
 ### Linguagens:
 ###
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=yellow&color=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=yellow&color=black) ![SQL](https://img.shields.io/badge/sql-336791?style=for-the-badge&logo=&logoColor=white&color=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=yellow&color=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=yellow&color=black) ![SQL](https://img.shields.io/badge/sql-336791?style=for-the-badge&logo=data&logoColor=white&color=black)
 
 ### Ferramentas:
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=orange&color=black) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue&color=black) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=green&color=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=yellow&color=black)
