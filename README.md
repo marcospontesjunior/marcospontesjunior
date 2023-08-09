@@ -1,7 +1,7 @@
 ## Hello!! My name is Marcos and you're on my Github!
 
 ###
-Completed up to the 8th semester of Engineering (currently on pause), I'm transitioning my career to the Data.
+Completed up to the 8th semester of Engineering (currently on pause), I'm transitioning my career to the Data area.
 
 ### Find me here 👇
 ###
