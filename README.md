@@ -24,13 +24,14 @@ Completed up to the 8th semester of Engineering (currently on pause), I'm transi
 ###
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=marcospontesjunior&repo=analise-perfil-clientes&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/marcospontesjunior/analise-perfil-clientes)
 ###
+- Brazilian Stocks Info
+###
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=marcospontesjunior&repo=brasil-stocks-info&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/marcospontesjunior/brasil-stocks-info)
+###
 - Data Science Bootcamp Project with Python powered by iFood
 ###
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=marcospontesjunior&repo=sistema-bancario-python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/marcospontesjunior/sistema-bancario-python)
-###
-- Logic Challenge with Python | Data Science Bootcamp with Python powered by iFood
-###
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=marcospontesjunior&repo=desafio-logica-python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/marcospontesjunior/desafio-logica-python)
+
 
 <!-- ### Github Stats:
 ###
