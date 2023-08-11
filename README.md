@@ -3,12 +3,12 @@
 ###
 Completed up to the 8th semester of Engineering (currently on pause), I'm transitioning my career to the Data area.
 
-### Find me here 👇
+### You can find me here 👇
 ###
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=blue&color=black)](https://linkedin.com/in/marcospontesjunior)
 <!-- [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&color=black)](https://medium.com/@marcospntsjunior) -->
 
-### Languages:
+<!-- ### Languages:
 ###
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=yellow&color=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=yellow&color=black) ![SQL](https://img.shields.io/badge/sql-336791?style=for-the-badge&logo=data&logoColor=white&color=black)
 
