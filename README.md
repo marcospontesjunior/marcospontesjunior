@@ -9,14 +9,14 @@ I am passionate about analyzing data, take the insights and using them to solve 
 
 In constant study Data, and all the projects in this repository represent my evolution.
 
-<strong>You Can Find Me Here:</strong>
+<strong>Connect with me on my</strong>
 ####
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=black)](https://linkedin.com/in/marcospontesjunior) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&color=black)](https://medium.com/@marcospntsjunior) 
-
 ###
+
 <details align="left">
-  <summary><strong>Click Here To See Highlighted Repository</strong></summary>
+  <summary><strong>Click here to see my highlighted repository</strong></summary>
 
 ###
 - Customer Profile Analysis
