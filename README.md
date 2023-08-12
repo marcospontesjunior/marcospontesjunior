@@ -1,10 +1,18 @@
+<img src="/banner.png">
+
 ### Hi, there! My name is Marcos Pontes and this is my repository! 👋
+
 ###
 I have completed up to the 8th semester of my Engineering degree (currently on pause). 
 
 I am passionate about analyzing data, take the insights and using them to solve problems. With this in mind, I am currently in the process of transitioning my career to the Data area.
 
 In constant study Data, and all the projects in this repository represent my evolution.
+
+<strong>You can find me here on my Linkedin</strong>
+####
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=black)](https://linkedin.com/in/marcospontesjunior) 
+<!-- [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&color=black)](https://medium.com/@marcospntsjunior) -->
 
 ###
 <details align="left">
@@ -30,11 +38,6 @@ In constant study Data, and all the projects in this repository represent my evo
 <a href="https://github.com/marcospontesjunior/sistema-bancario-python">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marcospontesjunior&repo=sistema-bancario-python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=FFFFFF&title_color=F28C28&&text_color=FFF" />
 </a> </details>
-
-### You can find me here on my Linkedin 👇
-###
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=black)](https://linkedin.com/in/marcospontesjunior) 
-<!-- [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&color=black)](https://medium.com/@marcospntsjunior) -->
 
 <!-- ### Github Stats:
 ###
