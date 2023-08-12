@@ -9,7 +9,7 @@ I am passionate about analyzing data, take the insights and using them to solve 
 
 In constant study Data, and all the projects in this repository represent my evolution.
 
-<strong>You can find me here on my Linkedin</strong>
+<strong>You can find me on my Linkedin 👇</strong>
 ####
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=black)](https://linkedin.com/in/marcospontesjunior) 
 <!-- [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&color=black)](https://medium.com/@marcospntsjunior) -->
