@@ -5,7 +5,7 @@
 ###
 I have completed up to the 8th semester of my Engineering degree (currently on pause). 
 
-I am passionate about analyzing data, take the insights and using them to solve problems. With this in mind, I am currently in the process of transitioning my career to the Data area.
+I am passionate about analyzing data, extracting insights, and using them to solve problems. With professional experience in administrative work, I am currently in the process of transitioning my career to the Data area..
 
 In constant study Data, and all the projects in this repository represent my evolution.
 
