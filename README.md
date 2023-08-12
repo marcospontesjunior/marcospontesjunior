@@ -37,7 +37,16 @@ In constant study Data, and all the projects in this repository represent my evo
 ###
 <a href="https://github.com/marcospontesjunior/sistema-bancario-python">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marcospontesjunior&repo=sistema-bancario-python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=FFFFFF&title_color=F28C28&&text_color=FFF" />
-</a> </details>
+</a>
+
+###
+- Logic Challenge with Python | Data Science Bootcamp with Python powered by iFood  
+###
+<a href="https://github.com/marcospontesjunior/desafio-logica-python">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marcospontesjunior&repo=desafio-logica-python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=FFFFFF&title_color=F28C28&&text_color=FFF" />
+</a> 
+
+</details>
 
 <!-- ### Github Stats:
 ###
