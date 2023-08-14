@@ -15,7 +15,7 @@ In constant study Data, and all the projects in this repository represent my evo
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&color=black)](https://medium.com/@marcospntsjunior) 
 ###
 
-<strong>Check my highlighted repository 👇</strong>
+<!-- <strong>Check my pinned repository 👇</strong> -->
 
 <!--
 <details align="left">
