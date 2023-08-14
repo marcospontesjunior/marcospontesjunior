@@ -5,9 +5,9 @@
 ###
 I have completed up to the 8th semester of my Engineering degree. 
 
-I am passionate about analyzing data, extracting insights, and using them to solve problems. With professional experience in administrative work, I am currently in the process of transitioning my career to the Data area..
+I am passionate about analyzing data, extracting insights, and using them to solve problems. With professional experience in administrative work,  I have been studying Data to improve my skills and enhance my work.
 
-In constant study Data, and all the projects in this repository represent my evolution.
+In constant study, and all the projects in this repository represent my evolution.
 
 <strong>Connect with me on my 👇</strong>
 ####
