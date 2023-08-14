@@ -9,12 +9,15 @@ I am passionate about analyzing data, extracting insights, and using them to sol
 
 In constant study Data, and all the projects in this repository represent my evolution.
 
-<strong>Connect with me on my 👇</strong>
+<strong>Connect with me on my </strong>
 ####
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=black)](https://linkedin.com/in/marcospontesjunior) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&color=black)](https://medium.com/@marcospntsjunior) 
 ###
 
+<strong>Check my highlighted repository 👇</strong>
+
+<!--
 <details align="left">
   <summary><strong>Click here to see my highlighted repository</strong></summary>
 
@@ -39,7 +42,7 @@ In constant study Data, and all the projects in this repository represent my evo
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marcospontesjunior&repo=sistema-bancario-python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=FFFFFF&title_color=F28C28&&text_color=FFF" />
 </a> 
 
-</details>
+</details> -->
 
 <!-- ### Github Stats:
 ###
