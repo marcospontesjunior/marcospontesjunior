@@ -3,7 +3,7 @@
 ### Hi, there! My name is Marcos Pontes and this is my repository! 👋
 
 ###
-I have completed up to the 8th semester of my Engineering degree (currently on pause). 
+I have completed up to the 8th semester of my Engineering degree. 
 
 I am passionate about analyzing data, extracting insights, and using them to solve problems. With professional experience in administrative work, I am currently in the process of transitioning my career to the Data area..
 
