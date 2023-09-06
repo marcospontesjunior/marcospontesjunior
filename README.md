@@ -9,6 +9,8 @@ I am passionate about analyzing data, extracting insights, and using them to sol
 
 In constant study, and all the projects in this repository represent my evolution.
 
+Take a look at my pinned repositories; they are the principal projects for my portfolio ✌️
+
 <strong>Connect with me on my 👇</strong>
 ####
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=black)](https://linkedin.com/in/marcospontesjunior) 
