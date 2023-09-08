@@ -6,6 +6,7 @@
 I have completed up to the 8th semester of my Engineering degree. 
 
 I am passionate about analyzing data, extracting insights, and using them to solve problems. With professional experience in administrative work, I have been studying Data Analysis to improve my skills and create value.
+
 Through my studies, I am excited to strategically apply my knowledge, aiming to achieve significant results, contribute valuable insights that facilitate decision-making, and enhance project success.
 
 In constant study, and all the projects in this repository represent my evolution.
