@@ -11,7 +11,7 @@ Through my studies, I am excited to strategically apply my knowledge, aiming to 
 
 In constant study, and all the projects in this repository represent my evolution.
 
-Take a look at my pinned repositories; they are the principal projects for my portfolio ✌️
+Take a look at my pinned repositories; they are the principal projects for my portfolio. All of them have a folder containing a report translated into English ✌️
 
 <strong>Connect with me on my 👇</strong>
 ####
