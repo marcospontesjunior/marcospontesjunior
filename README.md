@@ -9,7 +9,7 @@ With professional experience in administrative work, I have been focusing on imp
 
 I am excited to strategically apply my knowledge, aiming to achieve significant results, contribute valuable insights that facilitate decision-making, and enhance project success.
 
-Take a look at my pinned repositories; they are the principal projects for my portfolio. All of them have a folder containing a report translated into English ✌️
+Take a look at my repositories; all of them have a folder containing a report translated into English ✌️
 
 <strong>Connect with me on my 👇</strong>
 ####
