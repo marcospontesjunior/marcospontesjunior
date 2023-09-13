@@ -5,7 +5,7 @@
 ###
 I am passionate about analyzing data, extracting insights, and using them to solve problems. With professional experience in administrative work, I have been studying Data Analysis to improve my skills and create value.
 
-Through my studies, I am excited to strategically apply my knowledge, aiming to achieve significant results, contribute valuable insights that facilitate decision-making, and enhance project success.
+I am excited to strategically apply my knowledge, aiming to achieve significant results, contribute valuable insights that facilitate decision-making, and enhance project success.
 
 Take a look at my pinned repositories; they are the principal projects for my portfolio. All of them have a folder containing a report translated into English ✌️
 
