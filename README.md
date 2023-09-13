@@ -5,7 +5,7 @@
 ###
 I am passionate about analyzing data, extracting insights, and using them to solve problems. 
 
-With professional experience in administrative work, I have been focusing on improving my proficiency in Data and Business Analysis using my skills in SQL, Power BI, Python, and my strong knowledge in math and statistics to enhance my skills and create value.
+With professional experience in administrative work, I have been focusing on improving my proficiency in Data and Business Analysis using my skills in SQL, Power BI, Excel, Python, and my strong knowledge in math and statistics to enhance my skills and create value.
 
 I am excited to strategically apply my knowledge, aiming to achieve significant results, contribute valuable insights that facilitate decision-making, and enhance project success.
 
