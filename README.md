@@ -3,11 +3,6 @@
 ### Hi, there! My name is Marcos Pontes and this is my repository! 👋
 
 ###
-I am passionate about analyzing data, extracting insights, and using them to solve problems. 
-
-With professional experience in administrative work, I have been focusing on improving my proficiency in Data and Business Analysis using my skills in SQL, Power BI, Python and Excel to create value.
-
-I am excited to strategically apply my knowledge, aiming to achieve significant results, contribute valuable insights that facilitate decision-making, and enhance project success.
 
 Take a look at my repositories; all of them have a folder containing a report translated into English ✌️
 
