@@ -23,6 +23,6 @@ Take a look at my repositories; they all have a folder containing a report trans
 
 <strong>Conecte-se comigo no meu 👇</strong>
 ####
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=black)](https://linkedin.com/in/marcospontesjunior) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logoColor=white&color=black)](https://linkedin.com/in/marcospontesjunior) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logoColor=white&color=black)](https://medium.com/@marcospntsjunior) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logoColor=white&color=black)](mailto:marcospntsjunior@gmail.com) 
