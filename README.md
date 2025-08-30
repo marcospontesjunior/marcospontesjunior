@@ -3,7 +3,7 @@
 ### Olá, eu me chamo Marcos Pontes Junior e esse é o meu repositório! 👋
 
 ###
-**Analista de Qualidade (QA)** com experiência em testes funcionais, não funcionais; manuais e automatizados em aplicações web e desktop. Foco em planejamento, execução e documentação de testes, elaboração de cenários e casos de teste e garantia da qualidade de software em ambientes ágeis.
+**Analista de Qualidade (QA)** com experiência em testes funcionais e não funcionais; manuais, automatizados e performance em aplicações web. Foco em planejamento, execução e documentação de testes, elaboração de cenários e casos de teste e garantia da qualidade de software em ambientes ágeis.
 
 Take a look at my repositories; they all have a folder containing a report translated into English. ✌️
 ###
