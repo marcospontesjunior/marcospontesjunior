@@ -3,12 +3,12 @@
 ### Olá, eu me chamo Marcos Pontes Junior e esse é o meu repositório! 👋
 
 ###
-**Analista de Qualidade (QA)** com experiência em testes funcionais, não funcionais e automatizados em aplicações web e desktop. 
+**Analista de Qualidade (QA)** com experiência em testes funcionais, não funcionais; manuais e automatizados em aplicações web e desktop. 
 
 Take a look at my repositories; they all have a folder containing a report translated into English. ✌️
 ###
 
-<strong>Tecnologias e Ferramentas</strong>
+<strong>Tecnologias e Ferramentas:</strong>
 ####
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logoColor=white&color=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logoColor=white&color=black)
